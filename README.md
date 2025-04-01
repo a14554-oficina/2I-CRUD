@@ -20,4 +20,4 @@ Este é um projeto simples para o gerenciamento de produtos utilizando uma base 
 
 💾 Base de dados: MySQL
 
-🛠 Framework/ORM: SQLAlchemy / Django ORM / Outro (conforme a escolha do projeto)
+🛠 Framework: SQLAlchemy / Django ORM / Outro (conforme a escolha do projeto)
